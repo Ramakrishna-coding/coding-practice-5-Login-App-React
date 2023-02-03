@@ -1,0 +1,19 @@
+.bg-container {
+    background-color: #ffffff;
+    height: 100vh;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 150px;
+}
+.linear-container {
+    background-image: linear-gradient(to bottom, #303150, #b5b9ff);
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
