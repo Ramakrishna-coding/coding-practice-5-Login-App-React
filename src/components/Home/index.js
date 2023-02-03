@@ -22,6 +22,7 @@ class Home extends Component {
       buttonText = 'Login'
       message = 'Please Login'
     }
+    
     return (
       <div className="bg-container">
         <div className="linear-container">
